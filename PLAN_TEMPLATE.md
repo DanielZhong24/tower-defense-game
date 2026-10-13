@@ -2,8 +2,8 @@
 
 ## 1. Project overview
 
-**Student:** [Your name]  
-**Game folder:** `[student-folder]`  
+**Student:** [Daniel Zhong]  
+**Game folder:** `daniel-game`  
 **Deployment URL:** [Add after deployment]  
 **One-sentence pitch:** [Describe what makes your tower defense game unique.]
 
@@ -17,7 +17,7 @@
 
 #### Must have
 
-- [ ]
+- [ ] 
 - [ ]
 - [ ]
 
